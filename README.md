@@ -2,7 +2,7 @@
 
 ## Tecnologias
 * HTML
-* SASS
+* SASS / SCSS
 
 > Alice SPA, oferece uma variedade de serviços de bem-estar e relaxamento.
 O site apresenta informações sobre os serviços oferecidos, dicas de cuidados, e a oportunidade de se inscrever para descontos especiais.
