@@ -1,4 +1,4 @@
-# Alice-spa
+# Alice-spa 🫧
 
 ## Tecnologias
 * HTML
@@ -8,8 +8,3 @@
 O site apresenta informações sobre os serviços oferecidos, dicas de cuidados, e a oportunidade de se inscrever para descontos especiais.
 
 ## Acesse o site aqui! :point_right: [Projeto Alice SPA](alice-spa-1.vercel.app)
-
-## Preview
-
-### Desktop
-![Desktop Preview]()
